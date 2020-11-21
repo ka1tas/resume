@@ -1,2 +1,2 @@
 # Resume
-resume in - https://ka1tas.github.io/Resume/
+resume in - https://ka1tas.github.io/resume
